@@ -1,0 +1,6 @@
+{
+  "name": "VanRakshak",
+  "description": "AI-Powered Forest Enumeration & Low-Impact Diversion Planning System for Indian Forest Department & Ecological Decision Support",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
